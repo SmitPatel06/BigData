@@ -1,6 +1,6 @@
 <b>Twitter Big Data Analysis Project</b>
 
-Overview
+<b>Overview</b>
 This project demonstrates the analysis of a large-scale Twitter dataset using Apache Spark. The main goal is to process, clean, and analyze the data to extract meaningful insights such as tweet trends, sentiment distribution, and word frequencies. The project also includes a machine learning pipeline to perform sentiment analysis using logistic regression.
 
 Features
@@ -21,18 +21,17 @@ Project Workflow
   1.	Set Up Spark Session
     o	Configured with memory allocation and legacy time parser policy for efficient big data handling.
   2.	Load and Preprocess Data
-  3.	
     o	Loads a CSV dataset containing tweets.
     o	Renames columns and selects relevant fields for analysis.
     o	Converts timestamps to a consistent format and handles missing values.
-  4.	Data Analysis
+  3.	Data Analysis
     o	Analyz tweet volume over time and visualizes it.
     o	Groups and visualizes sentiment distribution (positive vs. negative).
-  5.	NLP and Word Frequency Analysis
+  4.	NLP and Word Frequency Analysis
     o	Tokenizes tweet text into individual words.
     o	Removes stopwords to focus on meaningful terms.
     o	Counts and visualizes the most frequent words in tweets.
-  6.	Machine Learning Pipeline
+  5.	Machine Learning Pipeline
     o	Builds a pipeline with tokenization, stopword removal, feature vectorization, and logistic regression.
     o	Trains and evaluates a sentiment analysis model.
 
