@@ -4,7 +4,8 @@
   
 This project demonstrates the analysis of a large-scale Twitter dataset using Apache Spark. The main goal is to process, clean, and analyze the data to extract meaningful insights such as tweet trends, sentiment distribution, and word frequencies. The project also includes a machine learning pipeline to perform sentiment analysis using logistic regression.
 
-Features
+<b>Features</b>
+
 •	Big Data Handling: Efficiently processes large datasets using PySpark.
 •	Data Cleaning and Preparation: Cleans and preprocesses raw Twitter data.
 •	Time-Series Analysis: Visualizes tweet volume trends over time.
@@ -12,13 +13,15 @@ Features
 •	Natural Language Processing (NLP): Tokenizes tweets, removes stopwords, and identifies word frequencies.
 •	Machine Learning: Builds a sentiment prediction model using logistic regression.
 
-Technologies Used
+<b>Technologies Used</b>
+
 •	Apache Spark: For distributed data processing.
 •	PySpark MLlib: For machine learning and feature engineering.
 •	Matplotlib: For visualizing trends and insights.
 •	Python: Primary programming language for implementation.
 
 Project Workflow
+
   1.	Set Up Spark Session
     o	Configured with memory allocation and legacy time parser policy for efficient big data handling.
   2.	Load and Preprocess Data
