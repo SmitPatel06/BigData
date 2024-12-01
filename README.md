@@ -21,11 +21,14 @@ This project demonstrates the analysis of a large-scale Twitter dataset using Ap
 <b>Technologies Used</b>
 
 •	Apache Spark: For distributed data processing.
+
 •	PySpark MLlib: For machine learning and feature engineering.
+
 •	Matplotlib: For visualizing trends and insights.
+
 •	Python: Primary programming language for implementation.
 
-Project Workflow
+<b>Project Workflow</b>
 
   1.	Set Up Spark Session
     o	Configured with memory allocation and legacy time parser policy for efficient big data handling.
@@ -44,7 +47,7 @@ Project Workflow
     o	Builds a pipeline with tokenization, stopword removal, feature vectorization, and logistic regression.
     o	Trains and evaluates a sentiment analysis model.
 
-Installation
+<b>Installation</b>
 1.	Install Python (version 3.8 or higher recommended).
 2.	Install required libraries:
 
