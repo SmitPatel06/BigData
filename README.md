@@ -56,21 +56,24 @@ This project demonstrates the analysis of a large-scale Twitter dataset using Ap
 2.	The script processes the dataset and generates visualizations for trends, sentiment, and word frequencies.
 3.	View model predictions for sentiment classification.
 
-Example Visualizations
+<b>Example Visualizations</b>
 1.	Tweet Volume Over Time: Shows trends in tweet activity across timestamps.
 2.	Sentiment Distribution: Bar chart displaying positive and negative sentiment counts.
 3.	Top Words: Highlights the most frequently used words in tweets.
 
-Dataset
+<b>Dataset</b>
+  
   •	The dataset used contains:
     o	Sentiment labels (0 for Negative, 4 for Positive).
     o	User metadata and original tweet content.
   
   •	File: Twitter_Dataset.csv.
 
-Contribution
+<b>Contribution</b>
+
 Feel free to fork this repository and contribute. Submit pull requests for any improvements or new features.
 
-License
+<b>License</b>
+
 This project is licensed under the MIT License. See the LICENSE file for details.
 
