@@ -51,7 +51,7 @@ This project demonstrates the analysis of a large-scale Twitter dataset using Ap
 1.	Install Python (version 3.8 or higher recommended).
 2.	Install required libraries:
 
-Usage
+<b>Usage</b>
 1.	Run the notebook file (Project.ipynb) using Jupyter Notebook or Google Colab.
 2.	The script processes the dataset and generates visualizations for trends, sentiment, and word frequencies.
 3.	View model predictions for sentiment classification.
