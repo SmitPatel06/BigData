@@ -50,10 +50,11 @@ Example Visualizations
 3.	Top Words: Highlights the most frequently used words in tweets.
 
 Dataset
-•	The dataset used contains:
-o	Sentiment labels (0 for Negative, 4 for Positive).
-o	User metadata and original tweet content.
-•	File: Twitter_Dataset.csv.
+  •	The dataset used contains:
+    o	Sentiment labels (0 for Negative, 4 for Positive).
+    o	User metadata and original tweet content.
+  
+  •	File: Twitter_Dataset.csv.
 
 Contribution
 Feel free to fork this repository and contribute. Submit pull requests for any improvements or new features.
