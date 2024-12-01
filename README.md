@@ -7,10 +7,15 @@ This project demonstrates the analysis of a large-scale Twitter dataset using Ap
 <b>Features</b>
 
 •	Big Data Handling: Efficiently processes large datasets using PySpark.
+
 •	Data Cleaning and Preparation: Cleans and preprocesses raw Twitter data.
+
 •	Time-Series Analysis: Visualizes tweet volume trends over time.
+
 •	Sentiment Analysis: Analyzes and visualizes sentiment distribution across tweets.
+
 •	Natural Language Processing (NLP): Tokenizes tweets, removes stopwords, and identifies word frequencies.
+
 •	Machine Learning: Builds a sentiment prediction model using logistic regression.
 
 <b>Technologies Used</b>
